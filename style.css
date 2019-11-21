@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.main   {
+    width: 80%; 
+    border: 8px; 
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+}
+.card-header  {
+    background-color: #e1e6e2;
+    text-align: center;
+}
+.subtitle   {
+    text-align: center;
+    background-color: pink;
+}
+.card-body {
+    padding-right: 15px;
+    padding-left: 15px;
+}
